@@ -1,0 +1,191 @@
+@import url(https://fonts.googleapis.com/css2?family=Comfortaa:300,400,700);
+@import url(https://fonts.googleapis.com/css2?family=Lato:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic);
+html, body {
+  font-family: 'Open Sans', sans-serif;
+  height: 100%;
+  margin: 0;
+  background-color: #8436b7;
+}
+.box {
+    width: 80%;
+    position: absolute;
+    margin: auto;
+  overflow: auto;
+}
+#main {
+ width: 100%;
+ padding: 0;
+}
+.content-asset p {
+ margin: 0 auto;
+}
+.breadcrumb {
+ display: none;
+}
+.margin-top-10 {
+ padding-top: 10px;
+}
+.margin-bot-10 {
+ padding-bottom: 10px;
+}
+#flat h1 {
+ font-family: 'Comfortaa', sans-serif;
+ font-size: 24px;
+ font-weight: 400;
+ text-transform: uppercase;
+ color: black;
+ padding: 0;
+ margin: 0;
+}
+#flat h2 {
+ font-family: 'Comfortaa', sans-serif;
+ font-size: 70px;
+ letter-spacing: 10px;
+ text-align: center;
+ color: white;
+ font-weight: 400;
+ text-transform: uppercase;
+ z-index: 10;
+ opacity: .9;
+}
+#flat h3 {
+ font-family: 'Comfortaa', sans-serif;
+ font-size: 14px;
+ line-height: 0;
+ font-weight: 400;
+ letter-spacing: 8px;
+ text-transform: uppercase;
+ color: black;
+}
+#flat p {
+ font-family: 'Lato', sans-serif;
+ font-weight: 400;
+ font-size: 14px;
+ line-height: 24px;
+}
+.first-character {
+ font-weight: 400;
+ float: left;
+ font-size: 84px;
+ line-height: 64px;
+ padding-top: 4px;
+ padding-right: 8px;
+ padding-left: 3px;
+ font-family: 'Lato', sans-serif;
+}
+.first {
+	color: #662929;
+	font-family: 'Great Vibes';
+}
+.second {
+	color: #4f2966;
+	font-family: 'Great Vibes';
+}
+.third {
+	color: #396a99;
+	font-family: 'Great Vibes';
+}
+#flat .title {
+ background: #8436b7;
+ padding: 60px;
+ margin: 0 auto;
+ text-align: center;
+}
+
+#flat .title h1 {
+ font-size: 35px;
+ letter-spacing: 8px;
+}
+#flat .block {
+ background: #8436b7;
+ padding: 6px;
+ width: 820px;
+ margin: 0 auto;
+ text-align: justify;
+}
+
+#flat .block-gray {
+ background: #8436b7;
+ padding: 6px;
+}
+#flat .section-overlay-mask {
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 100%;
+ height: 100%;
+ background-color: black;
+ opacity: 0.70;
+}
+#flat .section-overlay-mask {
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 100%;
+ height: 100%;
+ background-color: black;
+ opacity: 0.70;
+}
+#flat .parallax-one {
+ padding-top: 200px;
+ padding-bottom: 200px;
+ overflow: hidden;
+ position: relative;
+ width: 100%;
+ background-image: url("https://raw.githack.com/SvKocharina/4-kurs/main/Praktika1%20foto1.jpeg");
+ background-attachment: fixed;
+ background-size: cover;
+ -moz-background-size: cover;
+ -webkit-background-size: cover;
+ background-repeat: no-repeat;
+ background-position: top center;
+}
+#flat .parallax-two {
+ padding-top: 200px;
+ padding-bottom: 200px;
+ overflow: hidden;
+ position: relative;
+ width: 100%;
+ background-image: url("https://raw.githack.com/SvKocharina/4-kurs/main/Praktika1%20foto2.png");
+ background-attachment: fixed;
+ background-size: cover;
+ -moz-background-size: cover;
+ -webkit-background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center center;
+}
+#flat .parallax-three {
+ padding-top: 200px;
+ padding-bottom: 200px;
+ overflow: hidden;
+ position: relative;
+ width: 100%;
+ background-image: url("https://raw.githack.com/SvKocharina/4-kurs/main/Praktika1%20foto3.jpg");
+ background-attachment: fixed;
+ background-size: cover;
+ -moz-background-size: cover;
+ -webkit-background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center center;
+}
+#flat .line-break {
+ background: linear-gradient(60deg, #a97ac7, #e16dc9, #dd2a69);
+ width: 100%;
+ margin: 0 auto;
+}
+#flat .line-break {
+ background: linear-gradient(60deg, #a97ac7, #e16dc9, #dd2a69);
+ width: 100%;
+ margin: 0 auto;
+}
+#flat .line-break2 {
+ background: linear-gradient(60deg, #e16dc9, #a97ac7, #dd2a69);
+ width: 100%;
+ margin: 0 auto;
+}
+#flat .line-break3 {
+ background: linear-gradient(60deg, #dd2a69, #e16dc9, #a97ac7);
+ width: 100%;
+ margin: 0 auto;
+}
+
