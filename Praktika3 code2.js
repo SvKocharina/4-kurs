@@ -15,7 +15,7 @@ $(document).ready(function(){
      $("#button-overlay").toggleClass("grow")
      $("#button-container a").toggleClass("grow2")
    })
- $("#menu-button").hover(function(){
+    $("#menu-button").hover(function(){
      $("#menu-button").toggleClass("hover-animation")
      $("#menu-button").toggleClass("hover-color")
    })
@@ -25,7 +25,7 @@ $(document).ready(function(){
   $('#nav-container ul li a').toggleClass('nav-animate');
   $(this).toggleClass('nav-animate')
 });
- $("#menu-button").click(function (){
+  $("#menu-button").click(function (){
   
     /* hides intro */
     $("#intro h3").toggleClass("fuller")
